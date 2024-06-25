@@ -1,4 +1,4 @@
-# Copy-Detector
+# NLP Copy-Detector
 
 Program running video : https://youtu.be/hpgL3elhQbM
 
